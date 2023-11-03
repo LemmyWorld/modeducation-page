@@ -1,0 +1,49 @@
+baseURL = 'https://modeducation.lemmy.world/'
+languageCode = 'en-us'
+title = 'Lemmy.World Mod Education'
+
+
+# This is a "one page"-website, so we do not need these kinds of pages...
+disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+
+defaultContentLanguage = "en"
+# canonifyurls = true
+paginate = 10
+# The name of this wonderful theme ;-).
+theme = "hugo-theme-relearn"
+[frontmatter]
+date = [":git" ,"date", "publishDate", "lastmod"]
+# Theme-specific variables `.Site.Params.myParamName`
+[params]
+    # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
+    favicon = "images/favicon.png"
+
+
+    # Another "title" :-). This one is used as the site_name on the Hugo's internal
+    # opengraph structured data template.
+    # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
+    title =  "Lemmy.World Mod Education"
+
+    # The "description" of your website. This is used in the meta data of your generated html.
+    description = "Lemmy.World Mod Education"
+    copyright = "©2023 LemmyWorld <a href='https://github.com/LemmyWorld/modeducation-page/commits/main'>Page History</a>"
+    disqusShortname = ""
+
+    DefaultContentLanguage = "en"
+    # [languages]
+    # config/_default/languages.toml
+
+    # [menus]
+    # config/_default/menus/menu.xx.toml
+
+    [taxonomies]
+    category = "categories"
+    tag = "tags"
+    series = "series"
+
+    [outputs]
+    home = ["HTML", "RSS", "JSON"]
+    [params.meta]
+        keywords = "lemmy, world, modeducation, contact"
+
+
