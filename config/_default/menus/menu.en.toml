@@ -1,0 +1,25 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -110
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/LemmyWorld/"
+[[social]]
+  name = "mastodon"
+  weight = 2
+  url = "https://mastodon.world/@LemmyWorld"
+[[social]]
+  name = "linkedin"
+  weight = 3
+  url = "https://www.linkedin.com/company/lemmyworld/"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
+
+# name = "discord"
+# url = "https://discord.gg/#"
