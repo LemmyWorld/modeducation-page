@@ -8,7 +8,7 @@ _*What is the training course about? How can you educate a moderator? With passi
 
 **Welcome to the first chapter of your training! Let's start by going over the basics.**
 
-## Lesson I: The Basics
+## Before You Begin: The Clues
 
 **Clue I:** You are clueless, no matter what the occasion is.
 
