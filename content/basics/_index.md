@@ -12,7 +12,7 @@ _*What is the training course about? How can you educate a moderator? With passi
 
 **Clue I:** You are clueless, no matter what the occasion is.
 
-**Clue II:** If your final answer is AI generated or even slightly irrelevant to the question asked, it will be regarded as a fail and you will not pass the course.
+**Clue II:** If your final answer is AI generated or even slightly irrelevant to the question asked, it will be regarded as a fail and you will not pass the course. What counts as irrelevant is entirely up to us at only to us at all times. 
 
 **Clue III:** The Creed is your guide and it is the only way to cheat. 
 
