@@ -16,6 +16,6 @@ _*What is the training course about? How can you educate a moderator? With passi
 
 **Clue III:** The Creed is your guide and it is the only way to cheat. 
 
-**Clue number IV:** This is the number of John Wick movies that were published at the time we wrote this. 
+**Clue Chapter IV:** This is the number of John Wick movies that were published at the time we wrote this. 
 
 If you believe you are ready, please go to the next page. 
