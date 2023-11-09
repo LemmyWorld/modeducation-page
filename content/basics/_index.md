@@ -1,7 +1,21 @@
 ---
 archetype: "chapter"
-title: "Basics - Chapter Level"
+title: "The Training Course"
 weight: 1
 ---
 
-Discover what this Hugo theme is all about and the core-concepts behind it.
+_*What is the training course about? How can you educate a moderator? With passion. Please follow all instructions below.*_
+
+**Welcome to the first chapter of your training! Let's start by going over the basics.**
+
+## Lesson I: The Basics
+
+**Clue I:** You are clueless, no matter what the occasion is.
+
+**Clue II:** If your final answer is AI generated or even slightly irrelevant to the question asked, it will be regarded as a fail and you will not pass the course.
+
+**Clue III:** The Creed is your guide and it is the only way to cheat. 
+
+**Clue number IV:** This is the number of John Wick movies that were published at the time we wrote this. 
+
+If you believe you are ready, please go to the next page. 
